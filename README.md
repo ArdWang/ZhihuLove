@@ -9,6 +9,6 @@
 
 3. cd进入项目的spider目录
 
-4.scrapy genspider ZhihuLove 'www.zhihu.com'
+4. scrapy genspider ZhihuLove 'www.zhihu.com'
 
 然后用 vscode 或者 pycharm打开项目
