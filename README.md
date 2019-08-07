@@ -2,6 +2,7 @@
 ## Scrapy爬取知乎择偶标准
 
 创建 scrapy
+
 1. pipev install scrapy
 
 2. scrapy startproject ZhihuLove
